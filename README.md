@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[LIVE DEMO](https://disneyplus-clone-ec81c.web.app/).
 
 ## Available Scripts
 
